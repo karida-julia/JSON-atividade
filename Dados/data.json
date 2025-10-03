@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "nome":"Anitta",
+        "descricao": "Maior cantora do Brasil",
+        "imagem": "../Imagens/anitta.jpg",
+        "categoria": "Cantora",
+        "setor": 1
+
+    },
+    {
+        "id": 2,
+        "nome": "Jennie ",
+        "descricao": "It girl",
+        "imagem": "../Imagens/jennie.jpg",
+        "categoria": "Cantora e Rapper",
+        "setor": 2
+    },
+
+    {
+        "id": 3,
+        "nome": "Rosé",
+        "descricao": "Voz Marcante",
+        "imagem": "../Imagens/rose.jpg",
+        "categoria":"Vocalista",
+        "setor": 2
+    }, 
+    
+    {
+        "id": 4,
+        "nome": "Lisa",
+        "descricao": "Cantora e otima Dançarina",
+        "imagem": "../Imagens/lisa.jpg",
+        "categoria": "Dançarina e Rapper",
+        "setor":2
+    },
+
+    {
+        "id": 5,
+        "nome": "Jisoo",
+        "descricao": "Rosto bonito",
+        "imagem": "../Imagens/jisoo.jpg",
+        "categoria":"Atriz e Cantora",
+        "setor":2
+
+    },
+
+    {
+        "id": 6,
+        "nome": "Lara Raj",
+        "descricao": "Cantora",
+        "imagem": "../Imagens/lara.webp",
+        "categoria":"Cantora e Dançarina",
+        "setor":3
+    },
+
+    {
+        "id": 7,
+        "nome": "Manon",
+        "descricao": "Influenciadora de moda",
+        "imagem": "../Imagens/manon.jpeg",
+        "categoria":"Cantora",
+        "setor":3
+    },
+
+    {
+        "id": 8,
+        "nome": "Yoonchae",
+        "descricao": "coreana",
+        "imagem": "../Imagens/yoonchae.jpg",
+        "categoria": "Cantora e Dançarina",
+        "setor":3
+    },
+
+    {
+        "id": 9,
+        "nome": "Daniela",
+        "descricao": "Especialista em dança",
+        "imagem": "../Imagens/daniela.jpg",
+        "categoria":"Cantora e Dançarina",
+        "setor":3
+    },
+
+    {
+        "id": 10,
+        "nome": "Megan",
+        "descricao": "Ascendência sueco-chinesa",
+        "imagem": "../Imagens/megan.jpg",
+        "categoria":"Cantora e Dançarina",
+        "setor":3
+    }
+
+     {
+        "id": 11,
+        "nome": "Lee Jae Sang",
+        "descricao": "Ceo da Hybe",
+        "imagem": "../Imagens/lee.jpg",
+        "categoria":"Presidente da empresa",
+        "setor":3
+    }
+
+]
