@@ -7,8 +7,16 @@
 body{
     padding: 20px;
     font-family:Arial, Helvetica, sans-serif;
-    background: #833AB4;
-background: linear-gradient(90deg, rgba(131, 58, 180, 0) 0%, rgba(241, 32, 44, 1) 100%, rgba(227, 7, 7, 1) 0%, rgba(179, 96, 96, 1) 100%);
+    background-image: url(../Imagens/hybe-5-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display:flex;
+    align-items:center;
+    justify-content:baseline;
+    flex-wrap:wrap;
+    flex-direction:column;
 }
 
 .results{

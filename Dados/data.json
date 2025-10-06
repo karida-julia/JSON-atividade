@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "nome":"Anitta",
+        "nome":"Mc Carol",
         "descricao": "Maior cantora do Brasil",
-        "imagem": "../Imagens/anitta.jpg",
+        "imagem": "../Imagens/carol.avif",
         "categoria": "Cantora",
         "setor": 1
 
@@ -88,15 +88,51 @@
         "imagem": "../Imagens/megan.jpg",
         "categoria":"Cantora e Dançarina",
         "setor":3
-    }
+    },
 
-     {
+    {
         "id": 11,
         "nome": "Lee Jae Sang",
         "descricao": "Ceo da Hybe",
         "imagem": "../Imagens/lee.jpg",
         "categoria":"Presidente da empresa",
-        "setor":3
+        "setor":4
+    },
+    
+    {
+       "id": 12,
+       "nome": "Son Sungdeuk",
+       "descricao": "Diretor de Dança",
+       "imagem": "../Imagens/seo.webp",
+       "categoria":"Coreografo",
+       "setor":4
+    },
+
+    {
+       "id": 13,
+       "nome": "Humberto Leon",
+       "descricao": "Coreografo Principal",
+       "imagem": "../Imagens/humberto.webp",
+       "categoria":"Coreografo",
+       "setor":4
+    },
+
+    {
+       "id": 14,
+       "nome": "Bang Si_Hyuk",
+       "descricao": "Diretor e Criador da Empresa",
+       "imagem": "../Imagens/bang.jpg",
+       "categoria":"Diretor",
+       "setor":4
+    },
+
+    {
+       "id": 15,
+       "nome": "Babi Youhanna",
+       "descricao": "Figurinista",
+       "imagem": "../Imagens/babi.jpg",
+       "categoria":"Estilista",
+       "setor":4
     }
 
 ]
